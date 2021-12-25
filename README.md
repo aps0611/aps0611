@@ -1,8 +1,8 @@
-- 👋 Hi,I'm Abhinav
+- 👋 Hi,I'm Abhinav and meta-sapien is my new pen name.
 - 👀 I’m interested in Art, Music, Politics, History, Geography, Science, Maths, Movies ......... and Programming 
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...@Abhinav_Sonone 
+- 🌱 I’m currently learning AI/ML and Blockchain
+- 💞️ I’m looking to collaborate : YES!
+- 📫 How to reach me ...@Abhinav_Sonone twitter
 
 <!---
 meta-sapien/meta-sapien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
