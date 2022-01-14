@@ -1,7 +1,7 @@
-- 👋 Hi,I'm Abhinav and meta-sapien is my new pen name.
+- 👋 Hi,I'm Abhinav and meta-sapien is my pen name.
 - 👀 I’m interested in Art, Music, Politics, History, Geography, Science, Maths, Movies ......... and Programming 
-- 🌱 I’m currently learning AI/ML and Blockchain
-- 💞️ I’m looking to collaborate : YES!
+- 🌱 I’m currently learning AI/ML and Blockchain.
+- 💞️ I’m looking to collaborate : send in your mail: abhinavsonone06@gmail.com
 - 📫 How to reach me ...@Abhinav_Sonone twitter
 
 <!---
