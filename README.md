@@ -1,12 +1,26 @@
-### Hola 👋 , I'm Abhinav! meta-sapien is my pen name 
-- 👀 I’m interested in Coding, Football and Music
-- 🌱 I’m currently learning AI/ML. 
-- 💞️ Collaborate : send in your Mail 📧 : abhinavsonone06@gmail.com
-- 📫 How to reach me: [Twitter- Abhinav Sonone](https://twitter.com/Abhinav_Sonone)
+![Header](bg2.png "Header Image")
 
+<h2><img src="https://bestanimations.com/media/computers/46611517funny-computer-animated-gif-29.gif" alt="computer" width="80"> About me </h2>
+
+
+<ul>
+  <li><b>👤 Name: </b> Abhinav Sonone</li>
+  <li><b>😄 Pronouns:</b>  He/Him</li>
+  <li><b>📍 Location:</b> India</li>
+  <li><b>💼 Job: </b>Open for Work</li>
+  <li><b>📣 Languages:</b> English, Marathi and Hindi</li>
+</ul>
+
+</div>
+
+<a href="https://twitter.com/Abhinav_Sonone"><img src="https://img.shields.io/badge/Abhinav_Sonone_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
+
+<h2><img src="https://i.gifer.com/75ez.gif" alt="computer" width="100"> Lets Talk Stats ...</h2>
 
 <img src= "https://github-readme-stats.vercel.app/api?username=meta-sapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<!---
-meta-sapien/meta-sapien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2><img src="https://4.bp.blogspot.com/-g0EeBTPnb30/XO3Ivaky3SI/AAAAAAAzHpU/-e2lmtuYopIpT2ZMY8S9BHvOAcVp5gpIACLcBGAs/s1600/AW3884646_20.gif" alt="computer" width="100"> I'm currently ...</h2>
+
+<li><b>📖 learning: </b> AI/ML</li>
+  <li><b>📖 Reading:</b>  One Hundred Years of Solitude by Gabriel García Márquez</li>
+  <li><b>🎵listening:</b> Imagine- John Lenon</li>
