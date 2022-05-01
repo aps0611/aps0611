@@ -15,7 +15,7 @@
 
 <a href="https://twitter.com/Abhinav_Sonone"><img src="https://img.shields.io/badge/Abhinav_Sonone_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
 
-<h2><img src="https://i.gifer.com/75ez.gif" alt="computer" width="100"> Lets Talk Stats ...</h2>
+<h2><img src="https://github.com/meta-sapien/meta-sapien/blob/3d4f46b5c2df2cb025341f8de75ea1a56e21b14a/img2.gif" alt="computer" width="100"> Lets Talk Stats ...</h2>
 
 <img src= "https://github-readme-stats.vercel.app/api?username=meta-sapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
