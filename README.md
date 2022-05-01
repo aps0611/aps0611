@@ -1,7 +1,7 @@
 ### Hola 👋 , I'm Abhinav! meta-sapien is my pen name 
 - 👀 I’m interested in Coding, Football and Music
 - 🌱 I’m currently learning AI/ML. 
-- 💞️ Collaborate : send in your [Mail 📧](abhinavsonone06@gmail.com)
+- 💞️ Collaborate : send in your Mail 📧 : abhinavsonone06@gmail.com
 - 📫 How to reach me: [Twitter- Abhinav Sonone](https://twitter.com/Abhinav_Sonone)
 
 
