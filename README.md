@@ -17,8 +17,6 @@
 
 <a href="https://twitter.com/Abhinav_Sonone"><img src="https://img.shields.io/badge/Abhinav_Sonone_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
 
-<h2><img src="https://github.com/meta-sapien/meta-sapien/blob/3d4f46b5c2df2cb025341f8de75ea1a56e21b14a/img2.gif" alt="computer" width="80"> Lets Talk Stats ...</h2>
-
 <h2><img src="https://github.com/meta-sapien/meta-sapien/blob/86ae381cc12dd43b5270c58e09a65b21888167ed/img3.gif" alt="computer" width="80"> I'm currently ...</h2>
 
 <li><b>📖 learning: </b> AI/ML</li>
