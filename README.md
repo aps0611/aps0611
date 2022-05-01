@@ -2,6 +2,9 @@
   
 <h2><img src="https://github.com/meta-sapien/meta-sapien/blob/102d1ea7df7207ec9f3a6927f903fe0ab7c90b28/img1.gif" alt="computer" width="80"> About me </h2>
 
+ <div >
+  <img src="https://github-readme-stats.vercel.app/api?username=meta-sapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right">
+  
 <ul>
   <li><b>👤 Name: </b> Abhinav Sonone</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
@@ -10,8 +13,6 @@
   <li><b>📣 Languages:</b> English, Marathi and Hindi</li>
 </ul>
 
- <div >
-  <img src="https://github-readme-stats.vercel.app/api?username=meta-sapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right">
 
  <div >
   <a href="https://twitter.com/Abhinav_Sonone"><img src="https://img.shields.io/badge/Abhinav_Sonone_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
