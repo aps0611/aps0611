@@ -7,7 +7,7 @@
   <li><b>👤 Name: </b> Abhinav Sonone</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
   <li><b>📍 Location:</b> India</li>
-  <li><b>💼 Job: </b>Open for Work</li>
+  <li><b>💼 Job: </b>Open to Work</li>
   <li><b>📣 Languages:</b> English, Marathi and Hindi</li>
 </ul>
 
