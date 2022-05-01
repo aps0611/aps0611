@@ -1,4 +1,4 @@
-![Header](bg2.png "Header Image")
+![Header](header.gif "Header Image")
 
 <h2><img src="https://github.com/meta-sapien/meta-sapien/blob/102d1ea7df7207ec9f3a6927f903fe0ab7c90b28/img1.gif" alt="computer" width="80"> About me </h2>
 
