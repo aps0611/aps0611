@@ -19,7 +19,7 @@
 
 <img src= "https://github-readme-stats.vercel.app/api?username=meta-sapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<h2><img src="https://4.bp.blogspot.com/-g0EeBTPnb30/XO3Ivaky3SI/AAAAAAAzHpU/-e2lmtuYopIpT2ZMY8S9BHvOAcVp5gpIACLcBGAs/s1600/AW3884646_20.gif" alt="computer" width="100"> I'm currently ...</h2>
+<h2><img src="https://github.com/meta-sapien/meta-sapien/blob/86ae381cc12dd43b5270c58e09a65b21888167ed/img3.gif" alt="computer" width="100"> I'm currently ...</h2>
 
 <li><b>📖 learning: </b> AI/ML</li>
   <li><b>📖 Reading:</b>  One Hundred Years of Solitude by Gabriel García Márquez</li>
