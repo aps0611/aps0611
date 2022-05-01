@@ -3,7 +3,7 @@
 <h2><img src="https://github.com/meta-sapien/meta-sapien/blob/102d1ea7df7207ec9f3a6927f903fe0ab7c90b28/img1.gif" alt="computer" width="80"> About me </h2>
 
 <div >
-  <img src="https://github.com/meta-sapien/meta-sapien/blob/7702ffbc9dcde4b76d6feac77b0513a7e3926c42/profile.png" align="right" width="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=meta-sapien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right">
 
 <ul>
   <li><b>👤 Name: </b> Abhinav Sonone</li>
