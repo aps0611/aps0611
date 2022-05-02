@@ -21,4 +21,4 @@
 
 <li><b>📖 learning: </b> AI/ML</li>
   <li><b>📖 Reading:</b>  One Hundred Years of Solitude by Gabriel García Márquez</li>
-  <li><b>🎵listening:</b> Imagine- John Lenon</li>
+  <li><b>🎵listening:</b> Mozart's music **running in background while i am writing this**</li>
