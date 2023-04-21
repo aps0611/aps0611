@@ -19,5 +19,5 @@
 <h2><img src="https://github.com/aps0611/aps0611/blob/86ae381cc12dd43b5270c58e09a65b21888167ed/img3.gif" alt="computer" width="80"> I'm currently ...</h2>
 
 <li><b>📖 learning: </b> AI/ML</li>
-  <li><b>📖 Reading:</b>  One Hundred Years of Solitude by Gabriel García Márquez</li>
-  <li><b>🎵listening:</b> Mozart's music **running in background while i am writing this**</li>
+  <li><b>📖 Reading:</b>  ** ** </li>
+  <li><b>🎵listening:</b> ** **</li>
