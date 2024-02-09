@@ -1,5 +1,6 @@
 ![Header](header.gif "Header Image")
-  
+
+<!--
 <h2><img src="https://github.com/aps0611/aps0611/blob/102d1ea7df7207ec9f3a6927f903fe0ab7c90b28/img1.gif" alt="computer" width="80"> About me </h2>
 
  <div >
@@ -21,3 +22,4 @@
 <li><b>📖 learning: </b> AI/ML</li>
   <li><b>📖 Reading:</b>  ** ** </li>
   <li><b>🎵listening:</b> ** **</li>
+-->
